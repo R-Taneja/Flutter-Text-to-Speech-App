@@ -1,4 +1,4 @@
-# flutter-text-to-speech
+# Text-to-Speech
 A Flutter app that converts text into speech.
 
 ## Download Instructions
